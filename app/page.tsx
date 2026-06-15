@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex min-h-full flex-col items-center justify-center gap-4 bg-zinc-50 px-6 py-16 text-center dark:bg-zinc-950">
+    <main className="flex min-h-full flex-col items-center justify-center gap-4 bg-red-500 px-6 py-16 text-center">
       <p className="text-sm font-medium uppercase tracking-widest text-zinc-500">
         chill-code
       </p>
